@@ -231,7 +231,8 @@ there are 1846 rows and 3 variables
 the three variables are:
 **dataset**: indicates which dataset the data are from
 **x**: x-values
-**y**: y-values
+**y**
+: y-values
 
 
 Let's take a look at what these datasets are.
