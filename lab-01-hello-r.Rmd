@@ -2,7 +2,7 @@
 title: "Lab 01 - Hello R!"
 author: "Abigail Kaurin"
 date: "1/20/2024"
-output: 
+output:
   tufte::tufte_html:
     css: ../lab.css
     tufte_variant: "envisioned"
@@ -313,6 +313,8 @@ the correlation coefficient for **x** and **y** in the star data set is -0.0630,
 🧶 ✅ ⬆️ *This is another good place to pause, knit, commit changes with the commit message "Added answer for Ex 3", and push. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
 4.  Plot `y` vs. `x` for the `circle` dataset. You can (and should) reuse code we introduced above, just replace the dataset name with the desired dataset. Then, calculate the correlation coefficient between `x` and `y` for this dataset. How does this value compare to the `r` of `dino`?
+
+I was able to plot the star dataset but for some reason when I try doing the same things I can't get the circle to appear or calculate the correlation
 
 🧶 ✅ ⬆️ *You should pause again, commit changes with the commit message "Added answer for Ex 4", and push. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
